@@ -18,10 +18,10 @@ A real-time chess game built using TypeScript, WebSocket, React, and Chess.js. T
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/image1.png)
+![Home Screen](frontend1/src/assets/image1.png)
 
 ### Gameplay Screen
-![Gameplay Screen](screenshots/image2.png)
+![Gameplay Screen](frontend1/src/assets/image2.png)
 
 ## Tech Stack
 
